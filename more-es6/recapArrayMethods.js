@@ -14,7 +14,7 @@ console.log(product2)
 const singleProduct = products.find(p=> p.id === 3)
 // console.log(singleProduct)
 
-//forEatch---------------
+//forEach---------------
 
 // products.forEach(p => console.log(p))
 
